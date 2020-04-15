@@ -1,3 +1,7 @@
+"""classic game of snake using python
+the tough part was to increase the lenght of snake"""
+
+
 import pygame
 from random import *
 
